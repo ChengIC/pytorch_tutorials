@@ -6,3 +6,6 @@ Models/
 .gz
 .pt
 .vscode/
+datasets/
+*.model
+*.vocab
